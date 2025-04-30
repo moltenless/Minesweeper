@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Threading.Tasks;
 
-namespace Sapper
+namespace Minesweeper
 {
     public partial class MainForm : Form
     {
