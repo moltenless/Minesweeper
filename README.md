@@ -1,4 +1,4 @@
-# 💣 Classic Minesweeper - Desktop Edition
+# 💣 Classic Minesweeper (Screenshots are below)
 
 **Relive the timeless puzzle game of logic and luck — uncover the grid, avoid hidden bombs, and use clever deduction to win! Application with customizable bombs and hint support.**
 
